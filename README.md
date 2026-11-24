@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alexis 👋
 
-<!--
-**Alexis6am/Alexis6am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student based in Cuenca, Ecuador, learning machine learning, web design, and game design.
 
-Here are some ideas to get you started:
+## 🌱 What I'm working on
+- Learning React by building small projects
+- **Stock demand predictor**: a machine learning model that forecasts product demand
+- **Item recognition system**: a computer vision project that identifies objects in images
+- **Personal blog**: where I share what I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I've worked with
+- **Languages:** Python, Java, C++, JavaScript, HTML, CSS
+- **Frameworks:** Angular, Node.js
+- **Tools:** Git, VS Code
+
+## 📚 Currently learning
+React, machine learning, computer vision
+
+## 📫 How to reach me
+- Email: alexismendezp1@gmail.com
+- Linktree: [linktr.ee/alexis6am](https://linktr.ee/alexis6am)
